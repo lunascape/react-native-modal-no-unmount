@@ -1,7 +1,7 @@
 {
   "name": "react-native-modal-no-unmount",
   "version": "1.0.2",
-  "description": "Keep modal alive after invisble!",
+  "description": "(Update for RN0.64 or later) Keep modal alive after invisble!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,15 +12,11 @@
   "author": "Binh Nguyen <binhnd@socicom.com.vn> (http://socicom.vn)",
   "license": "BSD-3-Clause",
   "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
+    "react-native": "^0.64.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binhnd-socicom/react-native-modal-no-unmount.git"
+    "url": "git+https://github.com/lunascape/react-native-modal-no-unmount.git"
   },
-  "bugs": {
-    "url": "https://github.com/binhnd-socicom/react-native-modal-no-unmount/issues"
-  },
-  "homepage": "https://github.com/binhnd-socicom/react-native-modal-no-unmount#readme"
+  "homepage": "https://github.com/lunascape/react-native-modal-no-unmount#readme"
 }
